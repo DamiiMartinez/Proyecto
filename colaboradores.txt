@@ -13,8 +13,6 @@ Luciano Di Battista
 David Escobar
 Sebastian Gonzalez
 Lautaro Cid
-<<<<<<< main
 Bruno Pianezzi
 =======
 Brian González Lionel
->>>>>>> main

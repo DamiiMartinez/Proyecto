@@ -1,7 +1,20 @@
+Admin: Damian Martinez
+---------------
+Dios
+Messi
+Lautaro Aguirre
+Lucas Franco Duarte Callo
+---------------
+Nadie
+--------------
 Paola Perotto
 lautaro choque
 Luciano Di Battista
 David Escobar
 Sebastian Gonzalez
 Lautaro Cid
+<<<<<<< main
 Bruno Pianezzi
+=======
+Brian González Lionel
+>>>>>>> main
